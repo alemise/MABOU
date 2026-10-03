@@ -1,0 +1,7 @@
+MABOU Gestion — paquet PWA
+1. Hébergez le contenu de ce dossier sur un site HTTPS (ou un serveur local).
+2. Sur Android, ouvrez l'adresse dans Chrome.
+3. Appuyez sur « Installer MABOU » si le bouton apparaît, ou menu ⋮ > Installer l'application / Ajouter à l'écran d'accueil.
+4. Ouvrez l'application une première fois avec Internet pour mettre les fichiers en cache. Ensuite, l'interface peut s'ouvrir hors connexion.
+
+Attention : les données commerciales restent stockées localement dans le navigateur/appareil. Le cache hors connexion ne synchronise pas les données entre téléphones. Continuez à exporter régulièrement les sauvegardes JSON vers un autre support.
